@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="ALIF 1 coba ke 7" />
+              <option name="title_text" value="ALIF 1 coba ke 8" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1233,7 +1233,7 @@
             <slidelink slideid="_player.6GdinRNZDHD.5mnDGWazjU9" displaytext="pecahan ba" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6fN23BPu46g" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6fN23BPu46g" displaytext="Pengenalan huruf" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6fN23BPu46g.6b4m4jFC8Bs" displaytext="dhod" expand="false" type="slide" />
             <slidelink slideid="_player.6fN23BPu46g.6fb2y7bHAIV" displaytext="tho" expand="false" type="slide" />
@@ -1248,6 +1248,7 @@
             <slidelink slideid="_player.6fN23BPu46g.6IBDhAMv9Ol" displaytext="wawu" expand="false" type="slide" />
             <slidelink slideid="_player.6fN23BPu46g.5y0dXgOx0Lk" displaytext="ha" expand="false" type="slide" />
             <slidelink slideid="_player.6fN23BPu46g.5kqIJgsiGgy" displaytext="ya" expand="false" type="slide" />
+            <slidelink slideid="_player.6fN23BPu46g.5dR7WXOTw0Y" displaytext="contoh soal pengenalan huruf " expand="false" type="slide" />
             <slidelink slideid="_player.6fN23BPu46g.5VQvBzqXHgF" displaytext="pecahan ya" expand="false" type="slide" />
             <slidelink slideid="_player.6fN23BPu46g.5sPSLI534Nm" displaytext="pecahan ha" expand="false" type="slide" />
             <slidelink slideid="_player.6fN23BPu46g.6rJrHY9Voer" displaytext="pecahan wawu" expand="false" type="slide" />
@@ -1265,7 +1266,7 @@
             <slidelink slideid="_player.6fN23BPu46g.6UYW3Z6EBcb" displaytext="pecahan dhod" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6ZNVBtKCXYf" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6ZNVBtKCXYf" displaytext="latihan soal pengenalan huruf" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6ZNVBtKCXYf.5VnrIx42WXM" displaytext="soal 1" expand="false" type="slide" />
             <slidelink slideid="_player.6ZNVBtKCXYf.6gJLmJMkDi0" displaytext="soal 2" expand="false" type="slide" />
@@ -1274,9 +1275,10 @@
             <slidelink slideid="_player.6ZNVBtKCXYf.5s7aCE0cbdq" displaytext="soal 5" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6LHlIxOyzzd" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6LHlIxOyzzd" displaytext="Kosakata" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6LHlIxOyzzd.5u3Ms4hthSf" displaytext="menu kosakata" expand="false" type="slide" />
+            <slidelink slideid="_player.6LHlIxOyzzd.60PGJl7lpbE" displaytext="apersepsi" expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.6QBLvHXz4Aa" displaytext="kosakata 1 hotel" expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.615UnARbDVy" displaytext="kosakata 2 " expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.6G1LLxwYzcY" displaytext="kosakata 3" expand="false" type="slide" />
@@ -1292,41 +1294,44 @@
             <slidelink slideid="_player.6LHlIxOyzzd.68wl9oVa3LK" displaytext="kosakata 13" expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.6eWWDmUjyeE" displaytext="kosakata 14" expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.5dK52HOqcF8" displaytext="kosakata 15" expand="false" type="slide" />
+            <slidelink slideid="_player.6LHlIxOyzzd.6NjeknYn7yp" displaytext="contoh soal kosakata" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6Tl1cUBLYwZ" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6Tl1cUBLYwZ" displaytext="bagian tata bahasa " expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6Tl1cUBLYwZ.6jYSeSedwrt" displaytext="menu tata bahasa" expand="false" type="slide" />
             <slidelink slideid="_player.6Tl1cUBLYwZ.6AZVQkfiaIm" displaytext="tata bahasa" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.5jxJjfMV99a" displaytext="contoh soal tat bahasa" expand="false" type="slide" />
             <slidelink slideid="_player.6Tl1cUBLYwZ.6IfBomxRVxO" displaytext="soal tata bahasa 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6Tl1cUBLYwZ.6PTHi37kmIs" displaytext="Perhatikan pernyataan berikut!&#xA;&#xA;زَارَ الْمَرِيْضُ الْمُسْتَوْصَفَ&#xA;Benar atau salah kata الْمُسْتَوْصَفَ merupakan maf’ul bih." expand="false" type="slide" />
-            <slidelink slideid="_player.6Tl1cUBLYwZ.6YnGsdGGZuj" displaytext="Perhatikan kalimat berikut!&#xA;شَرِبَ اللِّصُّ الْمَالَ&#xA;Arti kata yang menjadi maf’ul bih pada kalimat tersebut adalah …" expand="false" type="slide" />
-            <slidelink slideid="_player.6Tl1cUBLYwZ.5ixrmVpn4GF" displaytext="Perhatikan pernyataan berikut!&#xA;تَصُبُّ الْأُمُّ الْمَاءَ&#xA;Benar atau salah kata الْأُمُّ merupakan maf’ul bih." expand="false" type="slide" />
-            <slidelink slideid="_player.6Tl1cUBLYwZ.6ndR0MfpUhU" displaytext="Perhatikan kalimat berikut!&#xA;قَابَلَ الْأَبُ الضُّيُوفَ&#xA;Manakah yang menjadi maf’ul bih dalam kalimat tersebut?" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.6PTHi37kmIs" displaytext="soal tata bahasa 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.6YnGsdGGZuj" displaytext="soal tata bahasa 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.5ixrmVpn4GF" displaytext="soal tata bahasa 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.6ndR0MfpUhU" displaytext="soal tata bahasa 5" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6JjEvxcTcRr" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6JjEvxcTcRr" displaytext="Qira&amp;apos;ah" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6JjEvxcTcRr.5q4tsOebsZn" displaytext="menu bacaan" expand="false" type="slide" />
             <slidelink slideid="_player.6JjEvxcTcRr.5a0AF9zT4Q4" displaytext="bacaan" expand="false" type="slide" />
             <slidelink slideid="_player.6JjEvxcTcRr.5pktFBEryZr" displaytext="mendengarkan bacaan" expand="false" type="slide" />
+            <slidelink slideid="_player.6JjEvxcTcRr.6mrybI5NIYQ" displaytext="contoh soal qiraah" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6fagpWldYsN" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6fagpWldYsN" displaytext="video pembelajaran" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6fagpWldYsN.6TCHxXpbhOw" displaytext="materi video" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5zEtpk6mXkD" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5zEtpk6mXkD.5lQtFv9TMbf" displaytext="Drag and Drop" expand="false" type="slide" />
-            <slidelink slideid="_player.5zEtpk6mXkD.5WDgchRTcZx" displaytext="Perhatikan pernyataan berikut!&#xA;&#xA;Pengucapan frasa تَسْجِيْلُ الْمُغَادَرَةِ yang benar adalah …" expand="false" type="slide" />
-            <slidelink slideid="_player.5zEtpk6mXkD.60pyYhH9Jku" displaytext="Kosakata yang sesuai dengan gambar berikut adalah …" expand="false" type="slide" />
-            <slidelink slideid="_player.5zEtpk6mXkD.6BI0GTelker" displaytext="Perhatikan kata berikut ini dengan cermat!&#xA;&#xA;مِصْعَدٌ merupakan kosakata bahasa Arab yang memiliki arti …" expand="false" type="slide" />
-            <slidelink slideid="_player.5zEtpk6mXkD.6FzcVcGruf3" displaytext="Perhatikan pernyataan berikut!&#xA;&#xA;Kata قُفْلُ الْبِطَاقَةِ memiliki arti “kartu kunci” dalam bahasa Indonesia." expand="false" type="slide" />
+            <slidelink slideid="_player.5zEtpk6mXkD.5lQtFv9TMbf" displaytext="soal kosakata 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5zEtpk6mXkD.5WDgchRTcZx" displaytext="soal kosakata 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5zEtpk6mXkD.60pyYhH9Jku" displaytext="soal kosakata 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5zEtpk6mXkD.6BI0GTelker" displaytext="soal kosakata 4" expand="false" type="slide" />
+            <slidelink slideid="_player.5zEtpk6mXkD.6FzcVcGruf3" displaytext="soal kosakata 5" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6FLrqsZo2g0" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6FLrqsZo2g0" displaytext="latihan soal qiraah" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6FLrqsZo2g0.63426IN4zz3" displaytext="soal bacaan 1" expand="false" type="slide" />
             <slidelink slideid="_player.6FLrqsZo2g0.6pKb9hasTXu" displaytext="soal bacaan 2" expand="false" type="slide" />
@@ -1335,23 +1340,25 @@
             <slidelink slideid="_player.6FLrqsZo2g0.5kz7gqyPipx" displaytext="soal bacaan 5" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6DSmQVb1oeD" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6DSmQVb1oeD" displaytext="Tadribat" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6DSmQVb1oeD.6APDSnecVlH" displaytext="Perhatikan kosakata berikut!&#xA;أَجْهِزَةُ السَّفَرِ&#xA;Arti yang paling tepat dari kosakata tersebut adalah …" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6c7q8h7DcFv" displaytext="Arti kata الْمُغَادَرَةِ adalah …" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.5ac1NvRQ3JV" displaytext="Kosakata حَوْضُ السِّبَاحَةِ berarti …" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6QfXPTyOWR6" displaytext="Benar atau salah kata الْبَطَّانِيَّةُ berarti bantal." expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6XASUt2oaub" displaytext="Frasa تَسْجِيْلُ الْوُصُوْلِ memiliki arti …" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.5usN8toVmJH" displaytext="Perhatikan penggalan bacaan berikut!&#xA;فِي نِهَايَةِ الْعَامِ الْمَاضِي ذَهَبْتُ إِلَى يُوْجْيَاكَرْتَا مَعَ عَائِلَتِي لِقَضَاءِ الْعُطْلَةِ. أَعَدَّ أَبِي أَجْهِزَةَ السَّفَرِ&#xA;Berdasarkan penggalan bacaan tersebut, Yusuf dan keluarganya pergi ke Yogyakarta untuk …" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6W9t0LtqCRt" displaytext="Perhatikan penggalan bacaan berikut!&#xA;شَعُرَ أَبِي بِالتَّعَبِ بِسَبَبِ الْمَسَافَةِ الطَّوِيْلَةِ. فَاقْتَرَحَتْ أُمِّي بَحْثَ الْفُنْدُقِ عَلَى أَبِي&#xA;Benar atau salah Ibu Yusuf menyarankan ayah untuk mencari hotel karena perjalanan yang jauh membuat ayah lelah." expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.5xUoB153xjP" displaytext="Perhatikan penggalan bacaan berikut!&#xA;وَرَأَيْتُ حَوْضَ السِّبَاحَةِ فِي الطَّابَقِ الْأَوَّلِ مِنَ الْفُنْدُقِ وَسَبَحْتُ فِيْهِ. أَمَّا أَبِي فَذَهَبَ إِلَى صَالَةِ الْأَلْعَابِ الرِّيَاضِيَّةِ&#xA;Kegiatan yang dilakukan Yusuf di hotel adalah …" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6LKdfPv5yOC" displaytext="Perhatikan penggalan bacaan berikut!&#xA;بِتْنَا فِي الْفُنْدُقِ يَوْمَيْنِ اِثْنَيْنِ. بِتَسْجِيْلِ الْوُصُوْلِ يَوْمَ السَّبْتِ وَتَسْجِيْلِ الْمُغَادَرَةِ يَوْمَ الْأَحَدِ&#xA;Kapan keluarga Yusuf melakukan check out hotel?" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.5opmYYuW3D2" displaytext="Perhatikan penggalan bacaan berikut!&#xA;&#xA;وَاشْتَرَتْ أُمِّي الطَّعَامَ لِأَكْلِهِ فِي السَّفَرِ&#xA;&#xA;Kata yang berkedudukan sebagai maf’ul bih adalah …" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6leKL8asURk" displaytext="Perhatikan penggalan bacaan berikut!&#xA;وَوَضَعْتُ الْمَلَابِسَ فِي الْحَقِيْبَةِ&#xA;Benar atau salah kata الْمَلَابِسَ merupakan maf’ul bih pada kalimat tersebut." expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6dWWFaL2Xm7" displaytext="Perhatikan penggalan bacaan berikut!&#xA;جَهَّزَ الْفُنْدُقُ الْأَجْهِزَةَ الْمَنْزِلِيَّةَ وَوَسَائِلَ الرَّاحَةِ&#xA;Yang menjadi maf’ul bih dalam kalimat tersebut adalah …" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6c4onTdSwtq" displaytext="Perhatikan penggalan bacaan berikut!&#xA;&#xA;وَشَاهَدَتِ الْأُمُّ التِّلْفَازَ فِي الْغُرْفَةِ&#xA;&#xA;Kata التِّلْفَازَ termasuk maf’ul bih." expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6bTtBRjt5MC" displaytext="Perhatikan penggalan bacaan berikut!&#xA;دَخَلَ أَبِي الْفُنْدُقَ وَذَهَبَ إِلَى الْإِسْتِقْبَالِ لِحَجْزِ الْغُرْفَةِ&#xA;Pada kalimat tersebut terdapat dua maf’ul bih, yaitu الْفُنْدُقَ dan الْغُرْفَةِ." expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6pqwssTyTga" displaytext="Perhatikan penggalan bacaan berikut!&#xA;وَجَدْنَا فِي الْفُنْدُقِ أَجْهِزَةَ الْاِسْتِحْمَامِ كَالصَّابُوْنِ وَالشَّامْبُو وَالْمِنْشَفَةِ&#xA;Kata yang menjadi maf’ul bih dalam penggalan kalimat tersebut adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6APDSnecVlH" displaytext="soal evaluasi 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6c7q8h7DcFv" displaytext="soal evaluasi 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.5ac1NvRQ3JV" displaytext="soal evaluasi 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6QfXPTyOWR6" displaytext="soal evaluasi 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6XASUt2oaub" displaytext="soal evaluasi 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.5usN8toVmJH" displaytext="soal evaluasi 6" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6W9t0LtqCRt" displaytext="soal evaluasi 7" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.5xUoB153xjP" displaytext="soal evaluasi 8" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6LKdfPv5yOC" displaytext="soal evaluasi 9" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.5opmYYuW3D2" displaytext="soal evaluasi 10" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6leKL8asURk" displaytext="soal evaluasi 11" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6dWWFaL2Xm7" displaytext="soal evaluasi 12" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6c4onTdSwtq" displaytext="spal evaluasi 13" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6bTtBRjt5MC" displaytext="soal evaluasi 14" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6pqwssTyTga" displaytext="soal evaluasi 15" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6VtdXtMwB2G" displaytext="refleksi" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6Zx6dWL1N1h" displaytext="hasil refleksi" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
