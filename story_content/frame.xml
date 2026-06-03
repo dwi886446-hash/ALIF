@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00001100101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00000100101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00001100101" font="Open Sans" controllayout="npnxnanbsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="pxabnsnfns00001100101" font="Open Sans" controllayout="pxabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="npxnabnsnfns00001100101" font="Open Sans" controllayout="npxnabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="npnxnanbnsnfns00001100101" font="Open Sans" controllayout="npnxnanbnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="pxabnsnfns00001100100" font="Open Sans" controllayout="pxabnsnfns00001100100" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="npnxnanbsnfns00000100101" font="Open Sans" controllayout="npnxnanbsnfns00000100101" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
+    <layout name="pxabnsnfns00000100101" font="Open Sans" controllayout="pxabnsnfns00000100101" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
+    <layout name="npxnabnsnfns00000100101" font="Open Sans" controllayout="npxnabnsnfns00000100101" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
+    <layout name="npnxnanbnsnfns00000100101" font="Open Sans" controllayout="npnxnanbnsnfns00000100101" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
+    <layout name="pxabnsnfns00000100100" font="Open Sans" controllayout="pxabnsnfns00000100100" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -13,22 +13,22 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="ALIF 1 coba ke 9" />
+              <option name="title_text" value="ALIF fixx" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
             <options />
           </option>
-          <option name="sidebar_enabled" value="true">
+          <option name="sidebar_enabled" value="false">
             <options>
-              <option name="sidebarpos" value="left" />
+              <option name="sidebarpos" value="right" />
               <option name="closed" value="false" />
             </options>
           </option>
           <optionlist name="tabs">
             <listitems>
               <listitem name="resources" value="true" group="linkright" />
-              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="outline" value="false" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
@@ -82,7 +82,7 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns00001100101">
+    <control_layout name="npnxnanbsnfns00000100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -98,14 +98,14 @@
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
+      <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="false" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00001100101">
+    <control_layout name="pxabnsnfns00000100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -121,14 +121,14 @@
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
+      <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="false" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns00001100101">
+    <control_layout name="npxnabnsnfns00000100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -144,14 +144,14 @@
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
+      <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="false" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns00001100101">
+    <control_layout name="npnxnanbnsnfns00000100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -167,14 +167,14 @@
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
+      <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="false" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00001100100">
+    <control_layout name="pxabnsnfns00000100100">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -190,7 +190,7 @@
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
+      <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="false" />
         </controls>
@@ -199,7 +199,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns00001100101">
+    <colorscheme name="pxabnsnfns00000100101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1116,7 +1116,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns00001100101">
+    <string_table name="pxabnsnfns00000100101">
       <string id="acc_active">active</string>
       <string id="check_include">Check to include</string>
       <string id="clear">Clear and return to menu</string>
@@ -1186,12 +1186,13 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6GdinRNZDHD" displaytext="k" expand="true" type="slide">
+        <slidelink slideid="_player.6GdinRNZDHD" displaytext="awal" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6GdinRNZDHD.5yQ7VaGeK9r" displaytext="start" expand="false" type="slide" />
             <slidelink slideid="_player.6GdinRNZDHD.6VYRBpYJAHt" displaytext="form masuk" expand="false" type="slide" />
             <slidelink slideid="_player.6GdinRNZDHD.6dyu3RaDBPo" displaytext="lobby" expand="false" type="slide" />
             <slidelink slideid="_player.6GdinRNZDHD.67LobL26VMF" displaytext="menu utama" expand="false" type="slide" />
+            <slidelink slideid="_player.6GdinRNZDHD.5h2NGLQLhX9" displaytext="pilihan tema" expand="false" type="slide" />
             <slidelink slideid="_player.6GdinRNZDHD.6GaySwYtCh0" displaytext="penutup" expand="false" type="slide" />
             <slidelink slideid="_player.6GdinRNZDHD.5ur2iUhzYo6" displaytext="ucapan terimakasih" expand="false" type="slide" />
             <slidelink slideid="_player.6GdinRNZDHD.6HPXw6xUBHd" displaytext="Kesimpulan" expand="false" type="slide" />
@@ -1201,84 +1202,13 @@
             <slidelink slideid="_player.6GdinRNZDHD.6QyeP7NCKh0" displaytext="profil penyusun" expand="false" type="slide" />
             <slidelink slideid="_player.6GdinRNZDHD.6Cl2pCCwP7W" displaytext="panduan penggunaan" expand="false" type="slide" />
             <slidelink slideid="_player.6GdinRNZDHD.5YJzdjq7OuX" displaytext="tentang aplikasi" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5VMT4DYYeAX" displaytext="materi pembelajaran" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.6Nv1kRGXJKJ" displaytext="pengenalan huruf hijaiyyah" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.6psGiUrr7nU" displaytext="huruf alif" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5WDiSuqg9Hc" displaytext="pecahan alif" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5rkPUV2PT4i" displaytext="huruf ba" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5wU898lNhIn" displaytext="huruf ta" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.6G4LeqeKQH4" displaytext="huruf tsa" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.6n90NVCjVRD" displaytext="jim" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.6kQoOIBJBP0" displaytext="kha" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5rIb2xlOydw" displaytext="kho" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.63OpxKnsN3W" displaytext="dza" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.63mgL8jY6jp" displaytext="ro" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5odLTn94qfh" displaytext="za" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.6Jc456RDHKc" displaytext="syin" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.6SrDUDh47vH" displaytext="sho" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5lZtSpKQclQ" displaytext="pecahan sho" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.6mV411sALT8" displaytext="pecahan syin" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.6By8q6KFmbu" displaytext="sin" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.69lzueAYqrG" displaytext="pecahan sin" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.64xZgz8QfsI" displaytext="pecahan za" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5eisNGLwdaa" displaytext="pecahan ro" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5pipiCraVL4" displaytext="pecahan dza" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.64YrnuGW1qg" displaytext="da" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5t6XyRPtOsW" displaytext="pecahan da" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5c4Xc7FkAjV" displaytext="pecahan kho" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5ghaPhkcw68" displaytext="pecahan kha" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.6he9TLUy8pr" displaytext="pecahan jim" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.608Cl9VsKe1" displaytext="pecahan huruf tsa" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.6V0gVve9HiX" displaytext="pecahan ta" expand="false" type="slide" />
-            <slidelink slideid="_player.6GdinRNZDHD.5mnDGWazjU9" displaytext="pecahan ba" expand="false" type="slide" />
+            <slidelink slideid="_player.6GdinRNZDHD.5VMT4DYYeAX" displaytext="materi pembelajaran bab 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6GdinRNZDHD.68UCtP0wVjo" displaytext="materi pembelajaran bab 4" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6fN23BPu46g" displaytext="Pengenalan huruf" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6fN23BPu46g.6b4m4jFC8Bs" displaytext="dhod" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6fb2y7bHAIV" displaytext="tho" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5kLpVtqUVny" displaytext="dho" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6XnYQYSxrdw" displaytext="ain" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5uYH8DJJkfE" displaytext="ghin" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6XSzAxZe3IB" displaytext="fa" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5u8KIzPJNrP" displaytext="kof" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6iggSCY1WUg" displaytext="kaf" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6Pq3r92p7IM" displaytext="mim" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5v04etAW98h" displaytext="nun" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6IBDhAMv9Ol" displaytext="wawu" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5y0dXgOx0Lk" displaytext="ha" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5kqIJgsiGgy" displaytext="ya" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5dR7WXOTw0Y" displaytext="contoh soal pengenalan huruf " expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5VQvBzqXHgF" displaytext="pecahan ya" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5sPSLI534Nm" displaytext="pecahan ha" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6rJrHY9Voer" displaytext="pecahan wawu" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6ksAIs24iBI" displaytext="pecahan nun" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5uHDRm47yS2" displaytext="pecahan mim" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6Hn0X84LxuY" displaytext="lam" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6bNVf8sHLiw" displaytext="pecahan lam" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6nPmWyQRdym" displaytext="pecahan kaf" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5o4qe6J3RMa" displaytext="pecahan kof" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6gOWDE80N7f" displaytext="pecahan fa" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5zxKCl1JAfm" displaytext="pecahan ghin" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6hpmfgWu30J" displaytext="pecahan ain" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6UQ4OnKmXjg" displaytext="pecahan dho" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.5kJIP9uhyd8" displaytext="pecahan tho" expand="false" type="slide" />
-            <slidelink slideid="_player.6fN23BPu46g.6UYW3Z6EBcb" displaytext="pecahan dhod" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6ZNVBtKCXYf" displaytext="latihan soal pengenalan huruf" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6ZNVBtKCXYf.5VnrIx42WXM" displaytext="soal 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZNVBtKCXYf.6gJLmJMkDi0" displaytext="soal 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZNVBtKCXYf.6dQ5HkLA4yk" displaytext="soal 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZNVBtKCXYf.6dK6gBYYHxh" displaytext="soal 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZNVBtKCXYf.5s7aCE0cbdq" displaytext="soal 5" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6LHlIxOyzzd" displaytext="Kosakata" expand="true" type="slide">
+        <slidelink slideid="_player.6LHlIxOyzzd" displaytext="Kosakata bab 4" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6LHlIxOyzzd.5u3Ms4hthSf" displaytext="menu kosakata" expand="false" type="slide" />
-            <slidelink slideid="_player.6LHlIxOyzzd.60PGJl7lpbE" displaytext="apersepsi" expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.6QBLvHXz4Aa" displaytext="kosakata 1 hotel" expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.615UnARbDVy" displaytext="kosakata 2 " expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.6G1LLxwYzcY" displaytext="kosakata 3" expand="false" type="slide" />
@@ -1288,6 +1218,8 @@
             <slidelink slideid="_player.6LHlIxOyzzd.6FXtnSUb7yx" displaytext="kosakata 7" expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.6nhFWOJ39aj" displaytext="kosakata 8" expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.5o05qJucEcj" displaytext="kosakata 9" expand="false" type="slide" />
+            <slidelink slideid="_player.6LHlIxOyzzd.6NrPV2ZvpxA" displaytext="kosakata 9" expand="false" type="slide" />
+            <slidelink slideid="_player.6LHlIxOyzzd.6AfZ1yOi2zi" displaytext="kosakata 9" expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.6BW1MxG40v5" displaytext="kosakata 10" expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.68JlRXF9C8I" displaytext="kosakata 11" expand="false" type="slide" />
             <slidelink slideid="_player.6LHlIxOyzzd.6DIyCXmyKbt" displaytext="kosakata 12" expand="false" type="slide" />
@@ -1297,68 +1229,143 @@
             <slidelink slideid="_player.6LHlIxOyzzd.6NjeknYn7yp" displaytext="contoh soal kosakata" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6Tl1cUBLYwZ" displaytext="bagian tata bahasa " expand="true" type="slide">
+        <slidelink slideid="_player.6Tl1cUBLYwZ" displaytext="Qira&amp;apos;ah bab 4" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6Tl1cUBLYwZ.6jYSeSedwrt" displaytext="menu tata bahasa" expand="false" type="slide" />
-            <slidelink slideid="_player.6Tl1cUBLYwZ.6AZVQkfiaIm" displaytext="tata bahasa" expand="false" type="slide" />
-            <slidelink slideid="_player.6Tl1cUBLYwZ.5jxJjfMV99a" displaytext="contoh soal tat bahasa" expand="false" type="slide" />
-            <slidelink slideid="_player.6Tl1cUBLYwZ.6IfBomxRVxO" displaytext="soal tata bahasa 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6Tl1cUBLYwZ.6PTHi37kmIs" displaytext="soal tata bahasa 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6Tl1cUBLYwZ.6YnGsdGGZuj" displaytext="soal tata bahasa 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6Tl1cUBLYwZ.5ixrmVpn4GF" displaytext="soal tata bahasa 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6Tl1cUBLYwZ.6ndR0MfpUhU" displaytext="soal tata bahasa 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.5q4tsOebsZn" displaytext="menu bacaan" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.5a0AF9zT4Q4" displaytext="bacaan" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.5pktFBEryZr" displaytext="mendengarkan bacaan" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.6mrybI5NIYQ" displaytext="contoh soal qiraah" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.6drmrJcyzxw" displaytext="soal bacaan 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.63426IN4zz3" displaytext="soal bacaan 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.6LzXzVhSgGN" displaytext="soal bacaan 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.6fioTJUUfTC" displaytext="soal bacaan 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6Tl1cUBLYwZ.5lVRnErpWWp" displaytext="soal bacaan 2" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6JjEvxcTcRr" displaytext="Qira&amp;apos;ah" expand="true" type="slide">
+        <slidelink slideid="_player.6JjEvxcTcRr" displaytext="Tata Bahasa bab 4" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6JjEvxcTcRr.5q4tsOebsZn" displaytext="menu bacaan" expand="false" type="slide" />
-            <slidelink slideid="_player.6JjEvxcTcRr.5a0AF9zT4Q4" displaytext="bacaan" expand="false" type="slide" />
-            <slidelink slideid="_player.6JjEvxcTcRr.5pktFBEryZr" displaytext="mendengarkan bacaan" expand="false" type="slide" />
-            <slidelink slideid="_player.6JjEvxcTcRr.6mrybI5NIYQ" displaytext="contoh soal qiraah" expand="false" type="slide" />
+            <slidelink slideid="_player.6JjEvxcTcRr.6jYSeSedwrt" displaytext="menu tata bahasa" expand="false" type="slide" />
+            <slidelink slideid="_player.6JjEvxcTcRr.6ec9fMbHRBz" displaytext="tata bahasa" expand="false" type="slide" />
+            <slidelink slideid="_player.6JjEvxcTcRr.5YMPxRQvlTa" displaytext="materi video" expand="false" type="slide" />
+            <slidelink slideid="_player.6JjEvxcTcRr.5jxJjfMV99a" displaytext="contoh soal tat bahasa" expand="false" type="slide" />
+            <slidelink slideid="_player.6JjEvxcTcRr.6IfBomxRVxO" displaytext="soal tata bahasa 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6JjEvxcTcRr.5ixrmVpn4GF" displaytext="soal tata bahasa 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JjEvxcTcRr.6ndR0MfpUhU" displaytext="soal tata bahasa 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6JjEvxcTcRr.6PTHi37kmIs" displaytext="soal tata bahasa 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6JjEvxcTcRr.6YnGsdGGZuj" displaytext="soal tata bahasa 3" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6fagpWldYsN" displaytext="video pembelajaran" expand="true" type="slide">
+        <slidelink slideid="_player.5zEtpk6mXkD" displaytext="Latihan Soal Kosakata bab 4" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6fagpWldYsN.6TCHxXpbhOw" displaytext="materi video" expand="false" type="slide" />
+            <slidelink slideid="_player.5zEtpk6mXkD.5lQtFv9TMbf" displaytext="soal kosakata 5" expand="false" type="slide" />
+            <slidelink slideid="_player.5zEtpk6mXkD.6cfiAi5PnVx" displaytext="soal kosakata 4" expand="false" type="slide" />
+            <slidelink slideid="_player.5zEtpk6mXkD.60pyYhH9Jku" displaytext="soal kosakata 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5zEtpk6mXkD.6BI0GTelker" displaytext="soal kosakata 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5zEtpk6mXkD.6FzcVcGruf3" displaytext="soal kosakata 1" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5zEtpk6mXkD" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6DSmQVb1oeD" displaytext="Tadribat bab 4" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5zEtpk6mXkD.5lQtFv9TMbf" displaytext="soal kosakata 1" expand="false" type="slide" />
-            <slidelink slideid="_player.5zEtpk6mXkD.5WDgchRTcZx" displaytext="soal kosakata 2" expand="false" type="slide" />
-            <slidelink slideid="_player.5zEtpk6mXkD.60pyYhH9Jku" displaytext="soal kosakata 3" expand="false" type="slide" />
-            <slidelink slideid="_player.5zEtpk6mXkD.6BI0GTelker" displaytext="soal kosakata 4" expand="false" type="slide" />
-            <slidelink slideid="_player.5zEtpk6mXkD.6FzcVcGruf3" displaytext="soal kosakata 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6APDSnecVlH" displaytext="soal 6" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6c7q8h7DcFv" displaytext="soal 7" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.5ac1NvRQ3JV" displaytext="soal 8" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6QfXPTyOWR6" displaytext="soal 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6XASUt2oaub" displaytext="soal 9" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.5usN8toVmJH" displaytext="soal 10" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6W9t0LtqCRt" displaytext="soal 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.5xUoB153xjP" displaytext="soal 11" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6LKdfPv5yOC" displaytext="soal 12" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.5opmYYuW3D2" displaytext="soal 13" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6leKL8asURk" displaytext="soal 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6dWWFaL2Xm7" displaytext="soal 14" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6c4onTdSwtq" displaytext="soal 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6bTtBRjt5MC" displaytext="soal 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6DSmQVb1oeD.6pqwssTyTga" displaytext="soal 15" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6FLrqsZo2g0" displaytext="latihan soal qiraah" expand="true" type="slide">
+        <slidelink slideid="_player.6Y9FJ5VW5JF" displaytext="kosakata bab 3" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6FLrqsZo2g0.63426IN4zz3" displaytext="soal bacaan 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6FLrqsZo2g0.6pKb9hasTXu" displaytext="soal bacaan 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6FLrqsZo2g0.6fioTJUUfTC" displaytext="soal bacaan 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6FLrqsZo2g0.6LzXzVhSgGN" displaytext="soal bacaan 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6FLrqsZo2g0.5kz7gqyPipx" displaytext="soal bacaan 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.6D3nCBwHfuO" displaytext="menu kosakata" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.6L5FboiUNY2" displaytext="kosakata 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.6p8oNc0h3TZ" displaytext="kosakata 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.5sDuQ5ff8Jz" displaytext="kosakata 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.6a5Kzswev08" displaytext="kosakata 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.5VhpLQ6RZEM" displaytext="kosakata 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.6mTMtqphSFd" displaytext="kosakata 6" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.64dYHJeBnlg" displaytext="kosakata 7" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.6Xtg87TNqss" displaytext="kosakata 8" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.5Yet0eS82jz" displaytext="kosakata 9" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.6WyPL02ajrD" displaytext="kosakata 10" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.6kXNUWhVX7o" displaytext="kosakata 11" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.5V3ebCfBbWq" displaytext="kosakata 12" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.677H8OKrcSM" displaytext="kosakata 13" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.64wfIKhYCaV" displaytext="kosakata 14" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.6fjNZpvCIer" displaytext="kosakata 15" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.6lkHzAvyLSQ" displaytext="kosakata 16" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.5Yb38rFh9So" displaytext="kosakata 17" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.5Weo93nvQ9t" displaytext="Contoh Soal" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.5rDjhpmuWYQ" displaytext="Latihan Soal 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.5zCizVvNDIC" displaytext="Latihan Soal 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.6DpygTfJsLR" displaytext="Latihan Soal 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.5ekTZ3UjPoE" displaytext="Latihan Soal 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y9FJ5VW5JF.5X5XbISDtif" displaytext="Latihan Soal 5" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6DSmQVb1oeD" displaytext="Tadribat" expand="true" type="slide">
+        <slidelink slideid="_player.5tpvzEIvCI1" displaytext="Qiraah bab 3" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6DSmQVb1oeD.6APDSnecVlH" displaytext="soal evaluasi 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6c7q8h7DcFv" displaytext="soal evaluasi 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.5ac1NvRQ3JV" displaytext="soal evaluasi 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6QfXPTyOWR6" displaytext="soal evaluasi 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6XASUt2oaub" displaytext="soal evaluasi 5" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.5usN8toVmJH" displaytext="soal evaluasi 6" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6W9t0LtqCRt" displaytext="soal evaluasi 7" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.5xUoB153xjP" displaytext="soal evaluasi 8" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6LKdfPv5yOC" displaytext="soal evaluasi 9" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.5opmYYuW3D2" displaytext="soal evaluasi 10" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6leKL8asURk" displaytext="soal evaluasi 11" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6dWWFaL2Xm7" displaytext="soal evaluasi 12" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6c4onTdSwtq" displaytext="spal evaluasi 13" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6bTtBRjt5MC" displaytext="soal evaluasi 14" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6pqwssTyTga" displaytext="soal evaluasi 15" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6VtdXtMwB2G" displaytext="refleksi" expand="false" type="slide" />
-            <slidelink slideid="_player.6DSmQVb1oeD.6Zx6dWL1N1h" displaytext="hasil refleksi" expand="false" type="slide" />
+            <slidelink slideid="_player.5tpvzEIvCI1.685PxAfb0jy" displaytext="Teks Bacaan" expand="false" type="slide" />
+            <slidelink slideid="_player.5tpvzEIvCI1.5oLL92wyDBe" displaytext="materi bacaan" expand="false" type="slide" />
+            <slidelink slideid="_player.5tpvzEIvCI1.63aRrM9yHYO" displaytext="mendengarkan" expand="false" type="slide" />
+            <slidelink slideid="_player.5tpvzEIvCI1.6bibyIe6slu" displaytext="contoh soal" expand="false" type="slide" />
+            <slidelink slideid="_player.5tpvzEIvCI1.6j7yBmaqTf6" displaytext="soal 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5tpvzEIvCI1.6oSNSYLFB9V" displaytext="soal 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5tpvzEIvCI1.64xAS6yT4V8" displaytext="soal 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5tpvzEIvCI1.5eBkHAudr9t" displaytext="soal 4" expand="false" type="slide" />
+            <slidelink slideid="_player.5tpvzEIvCI1.6r05kaYcluA" displaytext="soal 5" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5wfUWQabKZe" displaytext="tata bahasa bab 3" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5wfUWQabKZe.5dTnKeRoxID" displaytext="menu tata bahasa" expand="false" type="slide" />
+            <slidelink slideid="_player.5wfUWQabKZe.5lj6KtHd1YO" displaytext="materi tata bahasa" expand="false" type="slide" />
+            <slidelink slideid="_player.5wfUWQabKZe.6H4AbduijCT" displaytext="materi video" expand="false" type="slide" />
+            <slidelink slideid="_player.5wfUWQabKZe.6LwH2ctJc6r" displaytext="contoh soal" expand="false" type="slide" />
+            <slidelink slideid="_player.5wfUWQabKZe.6LvVUis5pWi" displaytext="soal 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5wfUWQabKZe.5VhRazYY7zc" displaytext="soal 5" expand="false" type="slide" />
+            <slidelink slideid="_player.5wfUWQabKZe.5sLW4sxU4Gq" displaytext="soal 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5wfUWQabKZe.6VIhH9vITy1" displaytext="soal 4" expand="false" type="slide" />
+            <slidelink slideid="_player.5wfUWQabKZe.6kwvEcxzZGY" displaytext="soal 2" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5eXEwVSFlpB" displaytext="Apersepsi" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5eXEwVSFlpB.6ixxjJ7yghn" displaytext="apersepsi bab 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5eXEwVSFlpB.6HkVBqaNZui" displaytext="apersepsi bab 4" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5sTUBzy29Jd" displaytext="Tadribat bab 3" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5sTUBzy29Jd.5YPgeUIZ1u5" displaytext="soal 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.6gWCyFlwn0x" displaytext="soal 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.6Lw7zUh27Mu" displaytext="soal 4" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.66PBwTnWPU9" displaytext="soal 5" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.5al2XecnDES" displaytext="soal 6" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.5gUamBzj78p" displaytext="soal 7" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.5uTbmDoias1" displaytext="soal 8" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.5fe80KcNNMi" displaytext="soal 9" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.5ZMaX3rzSYA" displaytext="soal 10" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.6htmVMAr6h5" displaytext="soal 11" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.5YZFsEbn3Jk" displaytext="soal 12" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.5gByfH6kdN4" displaytext="soal 13" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.6Eg71mI3eHj" displaytext="soal 14" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.5api9QxU7iy" displaytext="soal 15" expand="false" type="slide" />
+            <slidelink slideid="_player.5sTUBzy29Jd.6FrRSOEQP21" displaytext="soal 3" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6bvdN7fzQDa" displaytext="Refleksi" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6bvdN7fzQDa.5bPvVWU5PUV" displaytext="refleksi" expand="false" type="slide" />
+            <slidelink slideid="_player.6bvdN7fzQDa.6euYOPbPtMM" displaytext="refleksi" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
