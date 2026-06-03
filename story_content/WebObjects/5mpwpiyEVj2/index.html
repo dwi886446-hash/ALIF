@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Voice Recorder</title>
+</head>
+<body style="font-family:Arial;text-align:center;padding-top:20px;">
+
+<h3>Record Your Voice</h3>
+
+<button id="record">🎤 Record</button>
+<button id="stop">⏹ Stop</button>
+
+<br><br>
+
+<audio id="audio" controls></audio>
+
+<script>
+let mediaRecorder;
+let audioChunks = [];
+
+navigator.mediaDevices.getUserMedia({ audio: true })
+.then(stream => {
+
+mediaRecorder = new MediaRecorder(stream);
+
+document.getElementById("record").onclick = () => {
+audioChunks = [];
+mediaRecorder.start();
+};
+
+document.getElementById("stop").onclick = () => {
+mediaRecorder.stop();
+};
+
+mediaRecorder.ondataavailable = event => {
+audioChunks.push(event.data);
+};
+
+mediaRecorder.onstop = () => {
+const audioBlob = new Blob(audioChunks);
+const audioUrl = URL.createObjectURL(audioBlob);
+document.getElementById("audio").src = audioUrl;
+};
+
+});
+</script>
+
+</body>
+</html>

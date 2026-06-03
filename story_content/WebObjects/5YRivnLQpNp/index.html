@@ -1,0 +1,227 @@
+```html
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Tect Bacaan Arab</title>
+
+<style>
+
+body{
+    font-family: "Traditional Arabic", Arial, sans-serif;
+    background:#f4f6f9;
+    margin:0;
+    padding:30px;
+    direction:rtl;
+}
+
+.container{
+    max-width:1000px;
+    margin:auto;
+}
+
+h1{
+    text-align:center;
+    color:#0f172a;
+    margin-bottom:40px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:15px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+.text{
+    font-size:30px;
+    line-height:2;
+    color:#111827;
+    margin-bottom:20px;
+}
+
+button{
+    background:#2563eb;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:10px;
+    font-size:18px;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+button:hover{
+    background:#1d4ed8;
+}
+
+@media(max-width:768px){
+
+.text{
+    font-size:24px;
+}
+
+button{
+    width:100%;
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>
+رحلة إلى يوجياكرتا
+</h1>
+
+<!-- AUDIO 1 -->
+
+<div class="card">
+<div class="text">
+اِسْمَحُوْالِي أَنْ أُعَرِّفَ نَفْسِي اِسْمِي فَلاَحُ. أَنَا طَالِبٌ فِيْ الْمَدْرَسَةِ الثَّانَوِيَةِ الْمُحَمَّدِيَةِ بِسُوْرَابَايَا
+</div>
+
+<button onclick="playAudio(1)">
+▶ تشغيل الصوت 1
+</button>
+</div>
+
+<!-- AUDIO 2 -->
+
+<div class="card">
+<div class="text">
+فِيْ الْأُسْبُوْعِ الْمَاضِي تَنَزَّهْتُ إِلَى يُوْجْيَاكَرْتَا مَعَ أَصْدِقَائِي. ذَهَبْنَا إِلَى يُوْجْكَرْتَا بِالْحَافِلَةِ فِيْ السَّاعَةِ السَّابِعَةِ لَيْلاً وَوَصَلْنَا هُنَاكَ فِيْ السَّاعَةِ الخَامِسَةِ صَبَاحًا
+</div>
+
+<button onclick="playAudio(2)">
+▶ تشغيل الصوت 2
+</button>
+</div>
+
+<!-- AUDIO 3 -->
+
+<div class="card">
+<div class="text">
+حَمَلْتُ الْمَلاَبِسَ وَالطَّعَامَ. جَلَسْتُ مَعَ صَدِيْقِي, اِسْمُهُ فَوْزَانُ. جَلَسْنَا فِيْ الصَّفِّ الْخَلْفِي
+</div>
+
+<button onclick="playAudio(3)">
+▶ تشغيل الصوت 3
+</button>
+</div>
+
+<!-- AUDIO 4 -->
+
+<div class="card">
+<div class="text">
+نِمْنَا فِيْ السَّفَرِ وَاسْتَيْقَظْنَا فِيْالصُّبْحِ. اِسْتَحْمَمْنَا وَتَوَضَّأْنَا فِيْ مِنْطَقَةِ اِسْتِرَاحَةِ ثُمَّ صَلَّيْنَا الصُّبْحَ وَتَنَاوَلْنَا الْفُطُوْرَ
+</div>
+
+<button onclick="playAudio(4)">
+▶ تشغيل الصوت 4
+</button>
+</div>
+
+<!-- AUDIO 5 -->
+
+<div class="card">
+<div class="text">
+فِيْ يُوْجْيَاكَرْتَا زُرْنَا أَمَاكِنَ النُّزْهَةِ الْمُخْتَلِفَةِ وَهِِيَ شَا طِئُ فَارَنْجْ تِرِتِيْس, وَقَصْرُ يُوْجْيَاكَرْتَا, وَمَالِيْيُوْبُوْرُو, وَغَابَةُ الصَّنَوْبَرِ مَاعُوْنَان, وَمَعْبَدُ بَرَامْبَنَان
+</div>
+
+<button onclick="playAudio(5)">
+▶ تشغيل الصوت 5
+</button>
+</div>
+
+<!-- AUDIO 6 -->
+
+<div class="card">
+<div class="text">
+لَعِبْنَا فِيْ شَاطِئِ الْبَحْرِ وَلَمْ نَسْبَحِ لِأَنَّ السِّبَاحَةَ خَطِرَةٌ. اِشْتَرَيْتُ الثَّوْبَ فِيْ مَالِيْيُوْبُوْرُو وَاشْتَرَى فَوْزَان اللَّهْنَةِ
+</div>
+
+<button onclick="playAudio(6)">
+▶ تشغيل الصوت 6
+</button>
+</div>
+
+<!-- AUDIO 7 -->
+
+<div class="card">
+<div class="text">
+وَحِيْنَ تَمَشَّيْنَا هُنَاكَ وَجَدْنَا مَتْحَفَ الْمُحَمَّدِيَّة ثُمَّ تَعَلَّمْنَا فِيْهِ تَارِيْخَ الْمُحَمَّدِيَّة
+</div>
+
+<button onclick="playAudio(7)">
+▶ تشغيل الصوت 7
+</button>
+</div>
+
+<!-- AUDIO 8 -->
+
+<div class="card">
+<div class="text">
+تَعَلَّمْتُ كَثِيْرًا مِنْ هٰذِهِ الرِّحْلَةِ يَغْنِي لَنَا أَنْ نَدْعُوَ اللّٰهَ قَبْلَ الذِّهَابِ
+</div>
+
+<button onclick="playAudio(8)">
+▶ تشغيل الصوت 8
+</button>
+</div>
+
+<!-- AUDIO 9 -->
+
+<div class="card">
+<div class="text">
+وَوَجِبٌ عَلَيْنَا فِيْ أَمَاكِنِ النُّزْهَةِ أَنْ نَتَّبِعَ الْاَنْتِظَامَ لِكَيْ نَتَسَلَّمَ مِنَ الْحَادِثَةِ وَنَسْتَطِيْعَ أَنْ نَعْرِفَ الثَّقَافَةَ وَنَشْكُرَ نِعْمَةَ اللّٰهُ عَلَى كُلِّ مَا خَلَقَهُ لَنَا
+</div>
+
+<button onclick="playAudio(9)">
+▶ تشغيل الصوت 9
+</button>
+</div>
+
+<!-- AUDIO 10 -->
+
+<div class="card">
+<div class="text">
+وَهٰكَذَا رِحْلَتُنَا إِلَى يُوْجْيَاكَرْتَا
+</div>
+
+<button onclick="playAudio(10)">
+▶ تشغيل الصوت 10
+</button>
+</div>
+
+</div>
+
+<script>
+
+let currentAudio = null;
+
+function playAudio(nomor){
+
+    if(currentAudio){
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+    }
+
+    currentAudio = new Audio("audio" + nomor + ".mp3");
+
+    currentAudio.play();
+}
+
+</script>
+
+</body>
+</html>
+```
